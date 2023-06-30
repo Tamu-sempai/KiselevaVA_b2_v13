@@ -1,0 +1,16 @@
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\bin\Debug\netstandard2.0\KiselevaVA_b2_v13.deps.json
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\bin\Debug\netstandard2.0\KiselevaVA_b2_v13.dll
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\bin\Debug\netstandard2.0\ref\KiselevaVA_b2_v13.dll
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\bin\Debug\netstandard2.0\KiselevaVA_b2_v13.pdb
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.AssemblyInfoInputs.cache
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.AssemblyInfo.cs
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.csproj.CoreCompileInputs.cache
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.dll
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\ref\KiselevaVA_b2_v13.dll
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.pdb
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\SecondActivityPage.xaml.g.cs
+C:\ExamKiseleva\ExamXamarin\KiselevaVA_b2_v13\KiselevaVA_b2_v13\obj\Debug\netstandard2.0\KiselevaVA_b2_v13.csproj.AssemblyReference.cache
